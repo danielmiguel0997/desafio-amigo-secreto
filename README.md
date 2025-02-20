@@ -9,6 +9,7 @@ Este projeto tem como objetivo aplicar os conceitos aprendidos ao longo das aula
 - [x] Inserir e Adicionar nomes à lista a partir campo de texto.
 - [x] Exibir em tempo real os nomes adicionados à lista.
 - [x] Sortear aleatoriamente um dos nomes e exibir o resultado na tela.
+- [x] Remover da lista os nomes que forem sorteados.
 
 ## ​🚀​ **COMO USAR**
 
@@ -18,7 +19,7 @@ Este projeto tem como objetivo aplicar os conceitos aprendidos ao longo das aula
 
 ## ​​💭​ **PRÓXIMOS PASSOS**
 
-- [ ] Remover da lista os nomes que forem sorteados.
+
 
 ## 🧑🏻​ **AUTOR**
 
